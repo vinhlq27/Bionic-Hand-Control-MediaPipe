@@ -1,3 +1,12 @@
+# Bionic-Hand-Control-MediaPipe
+
+Control a bionic robot hand with your own hand.
+
+
+## Authors
+
+- [@vinhlq27](https://github.com/vinhlq27)
+
 
 ## Introduction
 
@@ -20,5 +29,8 @@ You can find the bionic hand design and circuit diagram in the [Hand-Design](htt
 The result is showed in the [Demo](https://github.com/vinhlq27/Bionic-Hand-Control-MediaPipe/tree/main/Demo) file. 
 
 ![Demo](https://github.com/vinhlq27/Bionic-Hand-Control-MediaPipe/blob/main/Demo/Demo.gif)
+
+
+
 
 
